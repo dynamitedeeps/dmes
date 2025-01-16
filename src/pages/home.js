@@ -1,11 +1,8 @@
-import Layout from "./layout";
+import Slider from "../components/Slider";
 
 function Home() {
     return(
-        <>
-        <Layout />
-            <h1>Home</h1>
-        </>
+        <Slider />
     );
 }
 
